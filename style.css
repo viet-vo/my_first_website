@@ -1,0 +1,9 @@
+.h1     {background-color: darkgray;
+        text-align: center;}
+.h2     {text-decoration-line: underline;
+        font-style: bold;}
+.img    {padding: 5px;
+        background-color: black;
+        break-after: auto;}
+.p      {font: italic;
+        break-after: auto}
