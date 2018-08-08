@@ -1,9 +1,30 @@
-.h1     {background-color: darkgray;
-        text-align: center;}
-.h2     {text-decoration-line: underline;
-        font-style: bold;}
-.img    {padding: 5px;
-        background-color: black;
-        break-after: auto;}
-.p      {font: italic;
-        break-after: auto}
+h1 {
+    background-color: darkgray;
+    text-align: center;
+    font-size: "50px"
+}
+
+h2 {
+    text-decoration-line: underline;
+    font-style: bold;
+}
+
+img {
+    padding: 5px;
+    background-color: black;
+}
+
+p {
+    font: italic;
+}
+
+div {
+    -webkit-columns: 100px 3;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+  }
+.center {
+    text-align: center;
+}
